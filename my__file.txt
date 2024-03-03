@@ -10,5 +10,8 @@
 8: Hello, world!
 
 
+<<<<<<< Updated upstream
 =======
 >>>>>>> c274e6e4a65e2136f9766b297c57d8b111539ae2
+=======
+>>>>>>> Stashed changes
